@@ -1,66 +1,79 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-vamsi&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-vamsi" /> </p>  
-<h2 align="center">You are viewing Ajay Vamsi DNV's Profile. 👋 </h2>
-<h5  align="center"><em>(Pronouns He/Him)<em></h5>
 
-<p align="center">  
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ajay-vamsi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ajay-vamsi/" height="30" width="40" /></a>  
-<a href="https://instagram.com/www.instagram.com/ajay_vamsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/ajay_vamsi" height="30" width="40" /></a>  
-<a href="https://twitter.com/ajayvamsi1996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajayvamsi1996" height="30" width="40" /></a>  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-vamsi&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-vamsi" /> </p>  
+<h1 align="center"> Hi, I'm Ajay Vamsi 👋</h1>
+<p align="center">
+    <em>Full Stack Web Developer · Bug Hunter · Tech Geek — based in India</em><br />
+    <sub>He/Him · Call me <strong>Ajay</strong> or <strong>Vamsi</strong></sub>
+</p>
+<p align="center">
+    <a href="https://ajay-vamsi.netlify.app"
+        ><img
+            src="https://img.shields.io/badge/Portfolio-ajay--vamsi.netlify.app-0e75b6?style=for-the-badge&logo=netlify&logoColor=white"
+            alt="Portfolio"
+    /></a>
+    <a href="https://www.linkedin.com/in/ajay-vamsi/"
+        ><img
+            src="https://img.shields.io/badge/LinkedIn-ajay--vamsi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="LinkedIn"
+    /></a>
+    <a href="mailto:ajay-vamsi@outlook.com"
+        ><img
+            src="https://img.shields.io/badge/Email-ajay--vamsi%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"
+            alt="Email"
+    /></a>
+    <a href="https://instagram.com/travelling_coders"
+        ><img
+            src="https://img.shields.io/badge/Instagram-@travelling__coders-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+            alt="Instagram"
+    /></a>
 </p>
 
 ---
+## 👨‍💻 About Me
 
-<p align="center">Vamsi is a Full Stack Web Developer, Bug Hunter, Tech Geek from India.
-Vamsi has 5+ Years of Experience in Full Stack Web Development. Vamsi is passionate about ReactJs, and VueJs.
-When Vamsi's not developing and building things, you can find him on Instagram page <a href="https://instagram.com/travelling_coders"><strong>@travelling_coders</strong></a>. But most of his days are spent working on Personal Projects.</p>
+I'm a Full Stack Web Developer with **9+ years of experience** building for the web. I'm passionate about **React**, and these days I'm going deep on **Agentic AI** and **n8n**. I enjoy building complete products end to end, from responsive interfaces to APIs and databases, and I have a habit of hunting down bugs along the way. Outside of work, most of my time goes into personal projects where I experiment with new tools and ideas.
 
-- 🔭 Vamsi is currently working on **Angular Projects**
-- 🌱 I’m currently learning **Angular, Firebase**
-- 👯 Vamsi is looking for Developer(s) who can collaborate on his Personal Projects
-- 🖥️  See Vamsi's portfolio at **[ajay-vamsi](http://ajay-vamsi.netlify.app)**
-- 💬 Ask him about **Full Stack Web Development**.
-- 📫 How to reach me
-	- via Mail **ajay-vamsi@outlook.com**
-	- via Instagram **[@travelling_coders](https://instagram.com/travelling_coders)**
-- 😄 You can call him either by **Ajay** or **Vamsi**
+---
+## 🚀 What I'm Up To
+
+|                     |                            |
+| ------------------- | -------------------------- |
+| 🔭 **Working on**   | MERN Stack Projects        |
+| 🌱 **Learning**     | Agentic AI, n8n            |
+| 💬 **Ask me about** | Full Stack Web Development |
 
 ---
 
-### Skills
+## 🛠️ Tech Stack
 
+| **Frontend**                                                                                                | **Backend & Data**                                                                                    | **Tools & Design**                                                                                    |
+| ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=html" height="24" align="center" alt="HTML" /> HTML                | <img src="https://skillicons.dev/icons?i=nodejs" height="24" align="center" alt="Node.js" /> Node.js  | <img src="https://skillicons.dev/icons?i=postman" height="24" align="center" alt="Postman" /> Postman |
+| <img src="https://skillicons.dev/icons?i=css" height="24" align="center" alt="CSS" /> CSS                   | <img src="https://skillicons.dev/icons?i=express" height="24" align="center" alt="Express" /> Express | <img src="https://skillicons.dev/icons?i=vite" height="24" align="center" alt="Vite" /> Vite          |
+| <img src="https://skillicons.dev/icons?i=bootstrap" height="24" align="center" alt="Bootstrap" /> Bootstrap | <img src="https://skillicons.dev/icons?i=python" height="24" align="center" alt="Python" /> Python    | <img src="https://skillicons.dev/icons?i=vscode" height="24" align="center" alt="VS Code" /> VS Code  |
+| <img src="https://skillicons.dev/icons?i=js" height="24" align="center" alt="JavaScript" /> JavaScript      | <img src="https://skillicons.dev/icons?i=fastapi" height="24" align="center" alt="FastAPI" /> FastAPI | <img src="https://skillicons.dev/icons?i=git" height="24" align="center" alt="Git" /> Git             |
+| <img src="https://skillicons.dev/icons?i=ts" height="24" align="center" alt="TypeScript" /> TypeScript      | <img src="https://skillicons.dev/icons?i=mongodb" height="24" align="center" alt="MongoDB" /> MongoDB | <img src="https://skillicons.dev/icons?i=github" height="24" align="center" alt="GitHub" /> GitHub    |
+| <img src="https://skillicons.dev/icons?i=react" height="24" align="center" alt="React" /> React             | <img src="https://skillicons.dev/icons?i=azure" height="24" align="center" alt="Azure" /> Azure       | <img src="https://skillicons.dev/icons?i=heroku" height="24" align="center" alt="Heroku" /> Heroku    |
+|                                                                                                             |                                                                                                       | <img src="https://skillicons.dev/icons?i=vercel" height="24" align="center" alt="Vercel" /> Vercel    |
+
+
+## 📊 GitHub Stats
+
+
+<p>
+<img height="600" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajay-vamsi&theme=github" /> </p>
 <p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="Bootstrap"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://angular.io" target="_blank" rel="noreferrer" title="Angular"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer" title="ChartJs"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer" title="NodeJs"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer" title="Express Js"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer" title="DOT NET"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" title="MS SQL Server"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer" title="Firebase"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git & GitHub"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://heroku.com" target="_blank" rel="noreferrer" title="Heroku"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer" title="AdobeXD"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
----
-
-## Profile Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajay-vamsi&theme=github) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajay-vamsi&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajay-vamsi&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajay-vamsi&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajay-vamsi&theme=github)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ajay-vamsi&theme=light)
+<img height="300" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajay-vamsi&theme=github" alt="GitHub stats" /> 
+<img height="300" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajay-vamsi&theme=github" alt="Repos per language" /> 
+<img height="300" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajay-vamsi&theme=github" alt="Most committed language" /> 
+<img height="300" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajay-vamsi&theme=github" alt="Most committed language" /> 
+<img height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-vamsi&theme=light" alt="Most committed language" /> 
+</p>
 
 
----
+## 🤝 Let's Connect
 
-## Stargazers
+Have a project idea, a bug that needs hunting, or want to team up on something fun? Drop me a mail at **[ajay-vamsi@outlook.com](mailto:ajay-vamsi@outlook.com)** or say hi on [Instagram](https://instagram.com/travelling_coders).
 
-[![Stargazers repo roster for @ajay-vamsi/ajay-vamsi](https://reporoster.com/stars/ajay-vamsi/ajay-vamsi)](https://github.com/ajay-vamsi/ajay-vamsi/stargazers)
-  
+<h3 align="center"><sub>⭐ Thanks for stopping by!</sub></h3>
